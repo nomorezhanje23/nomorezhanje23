@@ -45,6 +45,6 @@ Scaling production-ready applications
 
 ## 📫 Let’s Connect
 
-💼 LinkedIn: linkedin.com/in/nomore-zhanje
+💼 LinkedIn: [linkedin.com/in/nomore-zhanje](https://www.linkedin.com/in/nomore-zhanje/)
 
 📧 Email: nomorezhanje100@gmail.com
