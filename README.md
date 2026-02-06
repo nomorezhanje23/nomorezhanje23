@@ -1,4 +1,4 @@
-# Nomore Tawanda Zhanje
+# Nomore Zhanje
 
 👋 Hi, I’m Nomore Zhanje
 
