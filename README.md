@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Nomore Zhanje
 
-🚀 Software Engineer | Full-Stack (React, Node.js, Express.js, MongoDB, Next.js, Python) | ALX & BYU-Idaho Graduate | Automation & Operations Systems | Technical Virtual Assistant | 📍 Cape Town, South Africa | 🌍 Open to Global Opportunities
+🚀 Software Engineer | Full-Stack (React, Node.js, Express.js, MongoDB, Next.js, Python) | ALX & BYU-Idaho Graduate | Automation & Operations Systems | Technical Virtual Assistant | 📍 Cape Town, South Africa | Open to SaaS, FinTech & Global Opportunities
 
 I’m a Software Engineer passionate about building scalable, high-performance web applications and bridging the gap between technology and business operations. I am currently specializing in React-based frontends, modern JavaScript, and clean UI/UX—while bringing real-world experience from tourism, logistics, and business platforms.
 
